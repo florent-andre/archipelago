@@ -1,0 +1,144 @@
+[2022-11-28T09:17:16.471Z] WARN  5cb42b3bd454-18/CACHER: The 'redlock' package is missing. If you want to enable cache lock, please install it with 'npm install redlock --save' command.
+[2022-11-28T09:17:21.394Z] ERROR 5cb42b3bd454-18/BROKER: Unable to start all services. Error: Error when creating secure dataset localData
+    at Service.create (/archipelago/middleware/node_modules/@semapps/triplestore/subservices/dataset.js:60:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Service.started (/archipelago/middleware/node_modules/@semapps/core/service.js:178:13)
+    at async Promise.all (index 25)
+[Runner] Error when creating secure dataset localData Error: Error when creating secure dataset localData
+    at Service.create (/archipelago/middleware/node_modules/@semapps/triplestore/subservices/dataset.js:60:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Service.started (/archipelago/middleware/node_modules/@semapps/core/service.js:178:13)
+    at async Promise.all (index 25)
+[2022-11-28T09:17:21.917Z] WARN  5cb42b3bd454-35/CACHER: The 'redlock' package is missing. If you want to enable cache lock, please install it with 'npm install redlock --save' command.
+[2022-11-28T09:17:24.892Z] ERROR 5cb42b3bd454-35/BROKER: Unable to start all services. Error: Error when creating secure dataset localData
+    at Service.create (/archipelago/middleware/node_modules/@semapps/triplestore/subservices/dataset.js:60:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Service.started (/archipelago/middleware/node_modules/@semapps/core/service.js:178:13)
+    at async Promise.all (index 25)
+[Runner] Error when creating secure dataset localData Error: Error when creating secure dataset localData
+    at Service.create (/archipelago/middleware/node_modules/@semapps/triplestore/subservices/dataset.js:60:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Service.started (/archipelago/middleware/node_modules/@semapps/core/service.js:178:13)
+    at async Promise.all (index 25)
+[2022-11-28T09:17:25.395Z] WARN  5cb42b3bd454-50/CACHER: The 'redlock' package is missing. If you want to enable cache lock, please install it with 'npm install redlock --save' command.
+[2022-11-28T09:17:28.327Z] ERROR 5cb42b3bd454-50/BROKER: Unable to start all services. Error: Error when creating secure dataset localData
+    at Service.create (/archipelago/middleware/node_modules/@semapps/triplestore/subservices/dataset.js:60:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Service.started (/archipelago/middleware/node_modules/@semapps/core/service.js:178:13)
+    at async Promise.all (index 25)
+[Runner] Error when creating secure dataset localData Error: Error when creating secure dataset localData
+    at Service.create (/archipelago/middleware/node_modules/@semapps/triplestore/subservices/dataset.js:60:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Service.started (/archipelago/middleware/node_modules/@semapps/core/service.js:178:13)
+    at async Promise.all (index 25)
+[2022-11-28T09:17:28.832Z] WARN  5cb42b3bd454-65/CACHER: The 'redlock' package is missing. If you want to enable cache lock, please install it with 'npm install redlock --save' command.
+[2022-11-28T09:17:31.778Z] ERROR 5cb42b3bd454-65/BROKER: Unable to start all services. Error: Error when creating secure dataset localData
+    at Service.create (/archipelago/middleware/node_modules/@semapps/triplestore/subservices/dataset.js:60:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Service.started (/archipelago/middleware/node_modules/@semapps/core/service.js:178:13)
+    at async Promise.all (index 25)
+[Runner] Error when creating secure dataset localData Error: Error when creating secure dataset localData
+    at Service.create (/archipelago/middleware/node_modules/@semapps/triplestore/subservices/dataset.js:60:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Service.started (/archipelago/middleware/node_modules/@semapps/core/service.js:178:13)
+    at async Promise.all (index 25)
+[2022-11-28T09:17:32.291Z] WARN  5cb42b3bd454-80/CACHER: The 'redlock' package is missing. If you want to enable cache lock, please install it with 'npm install redlock --save' command.
+[2022-11-28T09:17:35.235Z] ERROR 5cb42b3bd454-80/BROKER: Unable to start all services. Error: Error when creating secure dataset localData
+    at Service.create (/archipelago/middleware/node_modules/@semapps/triplestore/subservices/dataset.js:60:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Service.started (/archipelago/middleware/node_modules/@semapps/core/service.js:178:13)
+    at async Promise.all (index 25)
+[Runner] Error when creating secure dataset localData Error: Error when creating secure dataset localData
+    at Service.create (/archipelago/middleware/node_modules/@semapps/triplestore/subservices/dataset.js:60:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Service.started (/archipelago/middleware/node_modules/@semapps/core/service.js:178:13)
+    at async Promise.all (index 25)
+[2022-11-28T09:17:35.742Z] WARN  5cb42b3bd454-95/CACHER: The 'redlock' package is missing. If you want to enable cache lock, please install it with 'npm install redlock --save' command.
+[2022-11-28T09:17:38.688Z] ERROR 5cb42b3bd454-95/BROKER: Unable to start all services. Error: Error when creating secure dataset localData
+    at Service.create (/archipelago/middleware/node_modules/@semapps/triplestore/subservices/dataset.js:60:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Service.started (/archipelago/middleware/node_modules/@semapps/core/service.js:178:13)
+    at async Promise.all (index 25)
+[Runner] Error when creating secure dataset localData Error: Error when creating secure dataset localData
+    at Service.create (/archipelago/middleware/node_modules/@semapps/triplestore/subservices/dataset.js:60:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Service.started (/archipelago/middleware/node_modules/@semapps/core/service.js:178:13)
+    at async Promise.all (index 25)
+[2022-11-28T09:17:39.186Z] WARN  5cb42b3bd454-110/CACHER: The 'redlock' package is missing. If you want to enable cache lock, please install it with 'npm install redlock --save' command.
+[2022-11-28T09:17:42.108Z] ERROR 5cb42b3bd454-110/BROKER: Unable to start all services. Error: Error when creating secure dataset localData
+    at Service.create (/archipelago/middleware/node_modules/@semapps/triplestore/subservices/dataset.js:60:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Service.started (/archipelago/middleware/node_modules/@semapps/core/service.js:178:13)
+    at async Promise.all (index 25)
+[Runner] Error when creating secure dataset localData Error: Error when creating secure dataset localData
+    at Service.create (/archipelago/middleware/node_modules/@semapps/triplestore/subservices/dataset.js:60:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Service.started (/archipelago/middleware/node_modules/@semapps/core/service.js:178:13)
+    at async Promise.all (index 25)
+[2022-11-28T09:17:42.613Z] WARN  5cb42b3bd454-125/CACHER: The 'redlock' package is missing. If you want to enable cache lock, please install it with 'npm install redlock --save' command.
+[2022-11-28T09:17:45.548Z] ERROR 5cb42b3bd454-125/BROKER: Unable to start all services. Error: Error when creating secure dataset localData
+    at Service.create (/archipelago/middleware/node_modules/@semapps/triplestore/subservices/dataset.js:60:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Service.started (/archipelago/middleware/node_modules/@semapps/core/service.js:178:13)
+    at async Promise.all (index 25)
+[Runner] Error when creating secure dataset localData Error: Error when creating secure dataset localData
+    at Service.create (/archipelago/middleware/node_modules/@semapps/triplestore/subservices/dataset.js:60:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Service.started (/archipelago/middleware/node_modules/@semapps/core/service.js:178:13)
+    at async Promise.all (index 25)
+[2022-11-28T09:17:46.052Z] WARN  5cb42b3bd454-140/CACHER: The 'redlock' package is missing. If you want to enable cache lock, please install it with 'npm install redlock --save' command.
+[2022-11-28T09:17:48.970Z] ERROR 5cb42b3bd454-140/BROKER: Unable to start all services. Error: Error when creating secure dataset localData
+    at Service.create (/archipelago/middleware/node_modules/@semapps/triplestore/subservices/dataset.js:60:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Service.started (/archipelago/middleware/node_modules/@semapps/core/service.js:178:13)
+    at async Promise.all (index 25)
+[Runner] Error when creating secure dataset localData Error: Error when creating secure dataset localData
+    at Service.create (/archipelago/middleware/node_modules/@semapps/triplestore/subservices/dataset.js:60:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Service.started (/archipelago/middleware/node_modules/@semapps/core/service.js:178:13)
+    at async Promise.all (index 25)
+[2022-11-28T09:17:49.494Z] WARN  5cb42b3bd454-155/CACHER: The 'redlock' package is missing. If you want to enable cache lock, please install it with 'npm install redlock --save' command.
+[2022-11-28T09:17:52.429Z] ERROR 5cb42b3bd454-155/BROKER: Unable to start all services. Error: Error when creating secure dataset localData
+    at Service.create (/archipelago/middleware/node_modules/@semapps/triplestore/subservices/dataset.js:60:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Service.started (/archipelago/middleware/node_modules/@semapps/core/service.js:178:13)
+    at async Promise.all (index 25)
+[Runner] Error when creating secure dataset localData Error: Error when creating secure dataset localData
+    at Service.create (/archipelago/middleware/node_modules/@semapps/triplestore/subservices/dataset.js:60:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Service.started (/archipelago/middleware/node_modules/@semapps/core/service.js:178:13)
+    at async Promise.all (index 25)
+[2022-11-28T09:17:52.942Z] WARN  5cb42b3bd454-170/CACHER: The 'redlock' package is missing. If you want to enable cache lock, please install it with 'npm install redlock --save' command.
+[2022-11-28T09:17:55.838Z] ERROR 5cb42b3bd454-170/BROKER: Unable to start all services. Error: Error when creating secure dataset localData
+    at Service.create (/archipelago/middleware/node_modules/@semapps/triplestore/subservices/dataset.js:60:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Service.started (/archipelago/middleware/node_modules/@semapps/core/service.js:178:13)
+    at async Promise.all (index 25)
+[Runner] Error when creating secure dataset localData Error: Error when creating secure dataset localData
+    at Service.create (/archipelago/middleware/node_modules/@semapps/triplestore/subservices/dataset.js:60:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Service.started (/archipelago/middleware/node_modules/@semapps/core/service.js:178:13)
+    at async Promise.all (index 25)
+[2022-11-28T09:17:56.352Z] WARN  5cb42b3bd454-185/CACHER: The 'redlock' package is missing. If you want to enable cache lock, please install it with 'npm install redlock --save' command.
+[2022-11-28T09:17:59.268Z] ERROR 5cb42b3bd454-185/BROKER: Unable to start all services. Error: Error when creating secure dataset localData
+    at Service.create (/archipelago/middleware/node_modules/@semapps/triplestore/subservices/dataset.js:60:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Service.started (/archipelago/middleware/node_modules/@semapps/core/service.js:178:13)
+    at async Promise.all (index 25)
+[Runner] Error when creating secure dataset localData Error: Error when creating secure dataset localData
+    at Service.create (/archipelago/middleware/node_modules/@semapps/triplestore/subservices/dataset.js:60:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Service.started (/archipelago/middleware/node_modules/@semapps/core/service.js:178:13)
+    at async Promise.all (index 25)
+[2022-11-28T09:17:59.791Z] WARN  5cb42b3bd454-200/CACHER: The 'redlock' package is missing. If you want to enable cache lock, please install it with 'npm install redlock --save' command.
+[2022-11-28T09:18:02.699Z] ERROR 5cb42b3bd454-200/BROKER: Unable to start all services. Error: Error when creating secure dataset localData
+    at Service.create (/archipelago/middleware/node_modules/@semapps/triplestore/subservices/dataset.js:60:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Service.started (/archipelago/middleware/node_modules/@semapps/core/service.js:178:13)
+    at async Promise.all (index 25)
+[Runner] Error when creating secure dataset localData Error: Error when creating secure dataset localData
+    at Service.create (/archipelago/middleware/node_modules/@semapps/triplestore/subservices/dataset.js:60:17)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Service.started (/archipelago/middleware/node_modules/@semapps/core/service.js:178:13)
+    at async Promise.all (index 25)
+[2022-11-28T09:18:03.223Z] WARN  5cb42b3bd454-215/CACHER: The 'redlock' package is missing. If you want to enable cache lock, please install it with 'npm install redlock --save' command.

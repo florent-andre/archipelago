@@ -27,8 +27,12 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
-    "react-scripts": "3.4.0",
-    "source-map-explorer": "^2.5.2"
+    "react-scripts": "^5.0.1",
+    "source-map-explorer": "^2.5.2",
+    "buffer": "npm:buffer@6.0.3",
+    "crypto": "npm:crypto-browserify@3.12.0",
+    "stream": "npm:stream-browserify@3.0.0",
+    "util": "npm:util@0.12.5"
   },
   "scripts": {
     "start": "react-scripts start",

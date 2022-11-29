@@ -1,0 +1,20 @@
+{
+  "name": "patientcontainer",
+  "private": true,
+  "description": "A container that wait.",
+  "version": "0.2.0",
+  "author": "Florent André <fa@mindmatcher.org>",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "minimal",
+    "container",
+    "node"
+  ],
+  "license": "MIT"
+}

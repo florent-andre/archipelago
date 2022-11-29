@@ -1,8 +1,9 @@
 const path = require('path');
 const { triple, namedNode, literal } = require('@rdfjs/data-model');
 const { AuthOIDCService } = require('@semapps/auth');
-const CONFIG = require('../config/config');
+const CONFIG = require('./config/config');
 
+/* comment for oidc skip
 module.exports = {
   mixins: [AuthOIDCService],
   settings: {
@@ -39,3 +40,4 @@ module.exports = {
     }
   }
 };
+*/
